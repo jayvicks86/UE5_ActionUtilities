@@ -6,4 +6,6 @@ These include:
  - Duplicating assets
  - Removing unused assets
  - Fixing up Redirectors
- - Asset creation Notification
+ - Automatic asset creation Notification
+
+![](https://github.com/jayvicks86/UE5_ActionUtilities/blob/main/Example_Screenshot.png)
